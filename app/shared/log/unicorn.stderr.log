@@ -1,0 +1,247 @@
+I, [2017-04-27T15:02:25.128596 #23965]  INFO -- : Refreshing Gem list
+I, [2017-04-27T15:02:26.322629 #23965]  INFO -- : listening on addr=/data/myapp/shared/sockets/unicorn.sock fd=13
+I, [2017-04-27T15:02:26.322746 #23965]  INFO -- : worker=0 spawning...
+I, [2017-04-27T15:02:26.323945 #23965]  INFO -- : worker=1 spawning...
+I, [2017-04-27T15:02:26.324585 #23976]  INFO -- : worker=0 spawned pid=23976
+I, [2017-04-27T15:02:26.324722 #23976]  INFO -- : worker=0 ready
+I, [2017-04-27T15:02:26.325612 #23965]  INFO -- : master process ready
+I, [2017-04-27T15:02:26.326247 #23979]  INFO -- : worker=1 spawned pid=23979
+I, [2017-04-27T15:02:26.326381 #23979]  INFO -- : worker=1 ready
+I, [2017-04-27T15:02:54.779141 #23965]  INFO -- : reaped #<Process::Status: pid 23976 exit 0> worker=0
+I, [2017-04-27T15:02:54.779303 #23965]  INFO -- : reaped #<Process::Status: pid 23979 exit 0> worker=1
+I, [2017-04-27T15:02:54.779452 #23965]  INFO -- : master complete
+I, [2017-04-27T15:02:58.225498 #24014]  INFO -- : Refreshing Gem list
+config.eager_load is set to nil. Please update your config/environments/*.rb files accordingly:
+
+  * development - set it to false
+  * test - set it to false (unless you use a tool that preloads your test environment)
+  * production - set it to true
+
+I, [2017-04-27T15:02:59.326693 #24014]  INFO -- : unlinking existing socket=/data/myapp/shared/sockets/unicorn.sock
+I, [2017-04-27T15:02:59.326851 #24014]  INFO -- : listening on addr=/data/myapp/shared/sockets/unicorn.sock fd=11
+I, [2017-04-27T15:02:59.326934 #24014]  INFO -- : worker=0 spawning...
+I, [2017-04-27T15:02:59.328023 #24014]  INFO -- : worker=1 spawning...
+I, [2017-04-27T15:02:59.328716 #24014]  INFO -- : master process ready
+I, [2017-04-27T15:02:59.329364 #24019]  INFO -- : worker=0 spawned pid=24019
+I, [2017-04-27T15:02:59.329493 #24019]  INFO -- : worker=0 ready
+I, [2017-04-27T15:02:59.330209 #24021]  INFO -- : worker=1 spawned pid=24021
+I, [2017-04-27T15:02:59.330600 #24021]  INFO -- : worker=1 ready
+I, [2017-04-27T15:03:00.443485 #24014]  INFO -- : reaped #<Process::Status: pid 24019 exit 0> worker=0
+I, [2017-04-27T15:03:00.543962 #24014]  INFO -- : reaped #<Process::Status: pid 24021 exit 0> worker=1
+I, [2017-04-27T15:03:00.544092 #24014]  INFO -- : master complete
+I, [2017-04-27T15:03:03.529126 #24029]  INFO -- : Refreshing Gem list
+I, [2017-04-27T15:03:04.732395 #24029]  INFO -- : unlinking existing socket=/data/myapp/shared/sockets/unicorn.sock
+I, [2017-04-27T15:03:04.732552 #24029]  INFO -- : listening on addr=/data/myapp/shared/sockets/unicorn.sock fd=13
+I, [2017-04-27T15:03:04.732630 #24029]  INFO -- : worker=0 spawning...
+I, [2017-04-27T15:03:04.733805 #24029]  INFO -- : worker=1 spawning...
+I, [2017-04-27T15:03:04.735028 #24029]  INFO -- : master process ready
+I, [2017-04-27T15:03:04.835466 #24029]  INFO -- : reaped #<Process::Status: pid 24039 exit 0> worker=0
+I, [2017-04-27T15:03:04.835578 #24029]  INFO -- : reaped #<Process::Status: pid 24042 exit 0> worker=1
+I, [2017-04-27T15:03:04.835661 #24029]  INFO -- : master complete
+I, [2017-04-27T15:03:07.304985 #24047]  INFO -- : Refreshing Gem list
+I, [2017-04-27T15:03:08.506671 #24047]  INFO -- : unlinking existing socket=/data/myapp/shared/sockets/unicorn.sock
+I, [2017-04-27T15:03:08.506819 #24047]  INFO -- : listening on addr=/data/myapp/shared/sockets/unicorn.sock fd=13
+I, [2017-04-27T15:03:08.506899 #24047]  INFO -- : worker=0 spawning...
+I, [2017-04-27T15:03:08.508116 #24047]  INFO -- : worker=1 spawning...
+I, [2017-04-27T15:03:08.508928 #24047]  INFO -- : master process ready
+I, [2017-04-27T15:03:08.509619 #24058]  INFO -- : worker=0 spawned pid=24058
+I, [2017-04-27T15:03:08.509739 #24058]  INFO -- : worker=0 ready
+I, [2017-04-27T15:03:08.510260 #24060]  INFO -- : worker=1 spawned pid=24060
+I, [2017-04-27T15:03:08.510385 #24060]  INFO -- : worker=1 ready
+I, [2017-04-27T15:03:17.101927 #24047]  INFO -- : reaped #<Process::Status: pid 24058 exit 0> worker=0
+I, [2017-04-27T15:03:17.102056 #24047]  INFO -- : reaped #<Process::Status: pid 24060 exit 0> worker=1
+I, [2017-04-27T15:03:17.102191 #24047]  INFO -- : master complete
+I, [2017-04-27T15:07:21.711294 #24526]  INFO -- : Refreshing Gem list
+I, [2017-04-27T15:07:22.933734 #24526]  INFO -- : unlinking existing socket=/data/myapp/shared/sockets/unicorn.sock
+I, [2017-04-27T15:07:22.933950 #24526]  INFO -- : listening on addr=/data/myapp/shared/sockets/unicorn.sock fd=13
+I, [2017-04-27T15:07:22.934037 #24526]  INFO -- : worker=0 spawning...
+I, [2017-04-27T15:07:22.935282 #24526]  INFO -- : worker=1 spawning...
+I, [2017-04-27T15:07:22.936105 #24526]  INFO -- : master process ready
+I, [2017-04-27T15:07:22.936817 #24537]  INFO -- : worker=0 spawned pid=24537
+I, [2017-04-27T15:07:22.936953 #24537]  INFO -- : worker=0 ready
+I, [2017-04-27T15:07:22.937540 #24539]  INFO -- : worker=1 spawned pid=24539
+I, [2017-04-27T15:07:22.937659 #24539]  INFO -- : worker=1 ready
+182.76.224.254 - - [27/Apr/2017:15:09:06 +0000] "GET / HTTP/1.0" 200 - 0.3470
+182.76.224.254 - - [27/Apr/2017:15:09:07 +0000] "GET /favicon.ico HTTP/1.0" 200 - 0.0010
+182.76.224.254 - - [27/Apr/2017:15:09:17 +0000] "GET / HTTP/1.0" 304 - 0.2615
+182.76.224.254 - - [27/Apr/2017:15:09:18 +0000] "GET /favicon.ico HTTP/1.0" 200 - 0.0008
+I, [2017-04-27T15:09:20.103503 #24526]  INFO -- : reaped #<Process::Status: pid 24537 exit 0> worker=0
+I, [2017-04-27T15:09:20.103674 #24526]  INFO -- : reaped #<Process::Status: pid 24539 exit 0> worker=1
+I, [2017-04-27T15:09:20.103781 #24526]  INFO -- : master complete
+Exception `Errno::ENOENT' at /var/lib/gems/2.3.0/gems/unicorn-5.3.0/lib/unicorn/http_server.rb:757 - No such file or directory @ rb_sysopen - /data/myapp/shared/pids/unicorn.pid
+I, [2017-04-27T15:09:26.809573 #24682]  INFO -- : Refreshing Gem list
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/concurrent-ruby-1.0.5/lib/concurrent/utility/native_extension_loader.rb:38 - cannot load such file -- concurrent/extension
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/concurrent-ruby-1.0.5/lib/concurrent/utility/native_extension_loader.rb:43 - cannot load such file -- concurrent/2.3/extension
+Exception `NameError' at /usr/lib/ruby/2.3.0/psych/class_loader.rb:68 - uninitialized constant BigDecimal
+Exception `NameError' at /usr/lib/ruby/2.3.0/psych/core_ext.rb:17 - method `to_yaml' not defined in Object
+Exception `NameError' at /usr/lib/ruby/2.3.0/psych/core_ext.rb:30 - method `yaml_as' not defined in Module
+Exception `NameError' at /usr/lib/ruby/2.3.0/psych/deprecated.rb:82 - undefined method `to_yaml_properties' for class `Object'
+Exception `TypeError' at /var/lib/gems/2.3.0/gems/activesupport-5.0.2/lib/active_support/core_ext/object/duplicable.rb:31 - can't dup NilClass
+Exception `TypeError' at /var/lib/gems/2.3.0/gems/activesupport-5.0.2/lib/active_support/core_ext/object/duplicable.rb:46 - can't dup FalseClass
+Exception `TypeError' at /var/lib/gems/2.3.0/gems/activesupport-5.0.2/lib/active_support/core_ext/object/duplicable.rb:61 - can't dup TrueClass
+Exception `TypeError' at /var/lib/gems/2.3.0/gems/activesupport-5.0.2/lib/active_support/core_ext/object/duplicable.rb:76 - can't dup Symbol
+Exception `TypeError' at /var/lib/gems/2.3.0/gems/activesupport-5.0.2/lib/active_support/core_ext/object/duplicable.rb:92 - can't dup Fixnum
+Using Ext extension for JSON.
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/nokogiri-1.7.1/lib/nokogiri.rb:30 - cannot load such file -- nokogiri/2.3/nokogiri
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/execjs-2.7.0/lib/execjs/ruby_racer_runtime.rb:108 - cannot load such file -- v8
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/execjs-2.7.0/lib/execjs/ruby_rhino_runtime.rb:91 - cannot load such file -- rhino
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/execjs-2.7.0/lib/execjs/duktape_runtime.rb:62 - cannot load such file -- duktape
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/execjs-2.7.0/lib/execjs/mini_racer_runtime.rb:96 - cannot load such file -- mini_racer
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/bundler-1.14.6/lib/bundler/runtime.rb:91 - cannot load such file -- spring
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/bundler-1.14.6/lib/bundler/runtime.rb:91 - cannot load such file -- spring-watcher-listen
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/activesupport-5.0.2/lib/active_support/dependencies.rb:293 - cannot load such file -- tzinfo/data
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/activesupport-5.0.2/lib/active_support/dependencies.rb:263 - cannot load such file -- tzinfo/data
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/activesupport-5.0.2/lib/active_support/dependencies.rb:293 - cannot load such file -- 2.3/ffi_c
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/activesupport-5.0.2/lib/active_support/dependencies.rb:263 - cannot load such file -- 2.3/ffi_c
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/ffi-1.9.18/lib/ffi/library.rb:113 - Could not open library 'inotify': inotify: cannot open shared object file: No such file or directory
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/ffi-1.9.18/lib/ffi/library.rb:113 - Could not open library 'libinotify.so': libinotify.so: cannot open shared object file: No such file or directory
+Exception `LoadError' at /var/lib/gems/2.3.0/gems/ffi-1.9.18/lib/ffi/library.rb:147 - Could not open library 'inotify': inotify: cannot open shared object file: No such file or directory.
+Could not open library 'libinotify.so': libinotify.so: cannot open shared object file: No such file or directory
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/activesupport-5.0.2/lib/active_support/locale/en.yml
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/activemodel-5.0.2/lib/active_model/locale/en.yml
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/activerecord-5.0.2/lib/active_record/locale/en.yml
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actionview-5.0.2/lib/action_view/locale/en.yml
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/config/locales/en.yml
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/web-console-3.5.0/lib/web_console/locales/en.yml
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/README.md
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/CHANGELOG.md
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/MIT-LICENSE
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/server.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/subscription_adapter.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/version.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/gem_version.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/remote_connections.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/channel.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/engine.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/assets/compiled/action_cable.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/channel/broadcasting.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/channel/callbacks.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/channel/base.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/channel/periodic_timers.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/channel/naming.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/channel/streams.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/helpers/action_cable_helper.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/server/broadcasting.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/server/configuration.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/server/base.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/server/worker.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/server/connections.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/subscription_adapter/redis.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/subscription_adapter/inline.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/subscription_adapter/base.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/subscription_adapter/postgresql.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/subscription_adapter/subscriber_map.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/subscription_adapter/evented_redis.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/subscription_adapter/async.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/tagged_logger_proxy.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/faye_event_loop.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/faye_client_socket.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/authorization.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/identification.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/stream_event_loop.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/internal_channel.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/base.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/client_socket.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/subscriptions.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/stream.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/web_socket.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/connection/message_buffer.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/rails/generators/channel/channel_generator.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/rails/generators/channel/USAGE
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/action_cable/server/worker/active_record_connection_management.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/rails/generators/channel/templates/channel.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/rails/generators/channel/templates/assets/channel.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/rails/generators/channel/templates/assets/channel.coffee
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/rails/generators/channel/templates/assets/cable.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/rails/generators/channel/templates/application_cable/connection.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/actioncable-5.0.2/lib/rails/generators/channel/templates/application_cable/channel.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/README.md
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/CHANGELOG.md
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/MIT-LICENSE
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/lib/coffee-rails.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/lib/assets/javascripts/coffee-script.js.erb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/lib/coffee/rails/js_hook.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/lib/coffee/rails/template_handler.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/lib/coffee/rails/version.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/lib/coffee/rails/engine.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/lib/rails/generators/coffee/assets/assets_generator.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/coffee-rails-4.2.1/lib/rails/generators/coffee/assets/templates/javascript.coffee
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/Rakefile
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/Gemfile
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/.gitignore
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/CONTRIBUTING.md
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/README.md
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/.travis.yml
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/VERSIONS.md
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/jquery-rails.gemspec
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/CHANGELOG.md
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/MIT-LICENSE
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/lib/jquery-rails.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/test/assert_select_jquery_test.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/test/test_helper.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/lib/jquery/rails.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/lib/jquery/assert_select.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts/jquery3.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts/jquery3.min.map
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts/jquery2.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts/jquery.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts/jquery2.min.map
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts/jquery2.min.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts/jquery3.min.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts/jquery.min.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts/jquery.min.map
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts/jquery_ujs.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/lib/jquery/rails/version.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/jquery-rails-4.3.1/lib/jquery/rails/engine.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/turbolinks-5.0.1/README.md
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/turbolinks-5.0.1/LICENSE
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/turbolinks-5.0.1/lib/turbolinks.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/turbolinks-5.0.1/lib/turbolinks/version.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /var/lib/gems/2.3.0/gems/turbolinks-5.0.1/lib/turbolinks/redirection.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/db/seeds.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/assets/config/manifest.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/assets/javascripts/application.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/assets/javascripts/cable.js
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/assets/stylesheets/application.css
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/assets/images/.keep
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/assets/javascripts/channels/.keep
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/channels/application_cable/connection.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/channels/application_cable/channel.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/controllers/application_controller.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/controllers/concerns/.keep
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/helpers/application_helper.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/jobs/application_job.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/mailers/application_mailer.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/models/application_record.rb
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/app/models/concerns/.keep
+Exception `Errno::ENOTDIR' at /var/lib/gems/2.3.0/gems/listen-3.0.8/lib/listen/record/entry.rb:51 - Not a directory @ dir_initialize - /data/myapp/test/mailers/.keep
+Exception `Errno::ECONNREFUSED' at /var/lib/gems/2.3.0/gems/unicorn-5.3.0/lib/unicorn/socket_helper.rb:123 - Connection refused - connect(2) for /data/myapp/shared/sockets/unicorn.sock
+I, [2017-04-27T15:09:28.892606 #24682]  INFO -- : unlinking existing socket=/data/myapp/shared/sockets/unicorn.sock
+I, [2017-04-27T15:09:28.892752 #24682]  INFO -- : listening on addr=/data/myapp/shared/sockets/unicorn.sock fd=13
+I, [2017-04-27T15:09:28.892840 #24682]  INFO -- : worker=0 spawning...
+I, [2017-04-27T15:09:28.894117 #24682]  INFO -- : worker=1 spawning...
+I, [2017-04-27T15:09:28.895318 #24682]  INFO -- : master process ready
+I, [2017-04-27T15:09:28.895773 #24694]  INFO -- : worker=0 spawned pid=24694
+I, [2017-04-27T15:09:28.895924 #24694]  INFO -- : worker=0 ready
+I, [2017-04-27T15:09:28.896462 #24697]  INFO -- : worker=1 spawned pid=24697
+I, [2017-04-27T15:09:28.896605 #24697]  INFO -- : worker=1 ready
+I, [2017-04-27T15:10:00.945523 #24682]  INFO -- : reaped #<Process::Status: pid 24694 exit 0> worker=0
+I, [2017-04-27T15:10:00.945652 #24682]  INFO -- : reaped #<Process::Status: pid 24697 exit 0> worker=1
+Exception `Errno::ECHILD' at /var/lib/gems/2.3.0/gems/unicorn-5.3.0/lib/unicorn/http_server.rb:399 - No child processes
+I, [2017-04-27T15:10:00.945818 #24682]  INFO -- : master complete
+I, [2017-04-27T15:10:25.723788 #24765]  INFO -- : Refreshing Gem list
+I, [2017-04-27T15:10:26.926836 #24765]  INFO -- : unlinking existing socket=/data/myapp/shared/sockets/unicorn.sock
+I, [2017-04-27T15:10:26.926989 #24765]  INFO -- : listening on addr=/data/myapp/shared/sockets/unicorn.sock fd=14
+I, [2017-04-27T15:10:26.927070 #24765]  INFO -- : worker=0 spawning...
+I, [2017-04-27T15:10:26.928287 #24765]  INFO -- : worker=1 spawning...
+I, [2017-04-27T15:10:26.929005 #24775]  INFO -- : worker=0 spawned pid=24775
+I, [2017-04-27T15:10:26.929128 #24775]  INFO -- : worker=0 ready
+I, [2017-04-27T15:10:26.930071 #24765]  INFO -- : master process ready
+I, [2017-04-27T15:10:26.936318 #24778]  INFO -- : worker=1 spawned pid=24778
+I, [2017-04-27T15:10:26.936481 #24778]  INFO -- : worker=1 ready
+182.76.224.254 - - [27/Apr/2017:15:10:41 +0000] "GET / HTTP/1.0" 200 - 0.2667
+182.76.224.254 - - [27/Apr/2017:15:10:42 +0000] "GET /favicon.ico HTTP/1.0" 200 - 0.0529
+182.76.224.254 - - [27/Apr/2017:15:11:04 +0000] "GET / HTTP/1.0" 304 - 0.2129
+182.76.224.254 - - [27/Apr/2017:15:11:04 +0000] "GET /favicon.ico HTTP/1.0" 200 - 0.0008
